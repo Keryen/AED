@@ -1,0 +1,11 @@
+/bin/
+/target/
+.classpath
+.project
+.settings/
+.metadata
+.class
+resources/saves/game
+resources/saves/game*
+src/main/java/es/upm/pproject/sokoban/model/levels/*
+src/main/java/es/upm/pproject/sokoban/model/levels
